@@ -8,3 +8,8 @@ node_modules
 tmp
 docs/api
 builds
+.idea/buckets.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
